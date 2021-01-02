@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Published papers and preprints
+description: Published conference papers and preprints
 years: [2020]
 nav: true
 ---
